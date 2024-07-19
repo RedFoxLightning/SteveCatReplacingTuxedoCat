@@ -1,1 +1,1 @@
-the 'AllSteveCat' replaces all cats with the steve texture while the 'TuxedoCatIsSteveCatNow' replaces only the tuxedo cat
+the 'AllSteveCat' replaces all cats with the steve texture while the 'TuxedoCatToSteveCat' replaces only the tuxedo cat
